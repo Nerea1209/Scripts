@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ $(read -r FIRSTLINE < keyword.txt) = "myfpschool" ]; then
+if [ $(grep "myfpschool" keyword.txt) ]; then
 
 echo "The word is 'myfpschool'."
 
