@@ -1,0 +1,46 @@
+
+
+
+
+
+
+
+
+
+
+
+    echo "$(grep ALBORAN $i)" >> toatoa.txt;
+
+
+
+
+
+
+
+
+
+
+
+
+    echo "$(grep ALBORAN $i)" >> toatoa.txt;
+
+    echo "$(grep ALBORAN $i)" >> toatoa.txt;
+    echo "$(grep ALBORAN $i)" >> toatoa.txt;
+
+
+
+
+
+
+
+
+
+
+
+    echo "$(grep ALBORAN $i)" >> toatoa.txt;
+
+    echo "$(grep ALBORAN $i)" >> toatoa.txt;
+    echo "$(grep ALBORAN $i)" >> toatoa.txt;
+    echo "$(grep ALBORAN $i)" >> toatoa.txt;
+    echo "$(grep ALBORAN $i)" >> toatoa.txt;
+    echo "$(grep ALBORAN $i)" >> toatoa.txt;
